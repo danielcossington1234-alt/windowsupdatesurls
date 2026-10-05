@@ -1,0 +1,10 @@
+*.puppet.com
+*.puppetlabs.com
+cdn.redhat.com
+dl.fedoraproject.org
+dl.k8s.io
+packages.microsoft.com
+pypi.org
+subscription.rhn.redhat.com
+subscription.rhsm.redhat.com
+*.rubygems.org
