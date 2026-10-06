@@ -1,0 +1,14 @@
+word.cloud.microsoft
+excel.cloud.microsoft
+powerpoint.cloud.microsoft
+onenote.cloud.microsoft
+outlook.cloud.microsoft
+teams.cloud.microsoft
+planner.cloud.microsoft
+loop.cloud.microsoft
+engage.cloud.microsoft
+m365.cloud.microsoft
+copilot.cloud.microsoft
+*.cloud.microsoft
+*.static.microsoft
+*.usercontent.microsoft
