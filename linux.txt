@@ -54,3 +54,8 @@ sso.redhat.com
 subscription.rhn.redhat.com
 subscription.rhsm.redhat.com
 version.goauthentik.io
+terraform.io
+www.terraform.io
+app.terraform.io
+registry.terraform.io
+archivist.terraform.io
