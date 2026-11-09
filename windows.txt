@@ -10,3 +10,12 @@ ntservicepack.microsoft.com
 go.microsoft.com
 dl.delivery.mp.microsoft.com
 *.delivery.mp.microsoft.com
+wdcp.microsoft.com
+*.wdcp.microsoft.com
+*.wdcpalt.microsoft.com
+*.wd.microsoft.com
+definitionupdates.microsoft.com
+*.definitionupdates.microsoft.com
+*.download.microsoft.com
+ctldl.windowsupdate.com
+www.microsoft.com
